@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/Sumaiya-haque/NodeJS_CRUD#readme",
   "dependencies": {
+    "bcrypt": "^5.0.1",
     "express": "^4.17.3",
     "mongoose": "^6.2.4",
     "nodemon": "^2.0.15"
-  },
-  "devDependencies": {}
+  }
 }
