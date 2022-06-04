@@ -1,5 +1,6 @@
 {
     "env":{
-        "MONGO_PASS": "shs"
+        "MONGO_PASS": "shs",
+        "JWT_KEY": "jwt_key"
     }
 }
